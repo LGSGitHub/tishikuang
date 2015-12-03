@@ -1,0 +1,25 @@
+#tishi
+{
+	border:1px solid #bababa;
+	width: 196px; 
+	max-height:220px;
+	overflow-x:hidden;
+	overflow-y: auto;
+	position: absolute;
+	display:none;
+	z-index: 200;
+	background-color:#ffffff;
+	left:400px;
+	word-wrap:break-word;
+	word-break:break-all;
+}
+
+p {
+	font-size: 16px;
+	width:100%;
+	margin:2px 5px;
+}
+
+p:hover {
+	background-color: #D2DEE8;
+}
